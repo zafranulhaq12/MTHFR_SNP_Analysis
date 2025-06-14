@@ -38,6 +38,3 @@ This project analyzes two clinically significant SNPs in the **MTHFR gene** usin
 ## 📎 Author
 Muhammad Zafran ul Haq
 
----
-
-Let me know if you'd like the full `.ipynb`, an HTML version, or help with interpretation.
